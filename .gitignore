@@ -1,0 +1,7 @@
+target
+*.jar
+out
+.idea
+src/main/generated-sources
+*.iml
+docker/data

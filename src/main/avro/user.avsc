@@ -1,0 +1,23 @@
+{
+  "namespace": "com.soujava.collabtime.kafka",
+  "type": "record",
+  "name": "User",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "points",
+      "type": "int"
+    },
+    {
+      "name": "favorite_color",
+      "type": "string"
+    },
+    {
+      "name": "favourite_language",
+      "type": "string"
+    }
+  ]
+}
